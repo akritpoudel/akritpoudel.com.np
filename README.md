@@ -1,6 +1,8 @@
 # Akrit Poudel - Professional Website
 
-Professional website for Akrit Poudel, Licensed Aircraft Maintenance Engineer (B1.1) specializing in ATR 72-500 and ATR 42-320 aircraft.
+**Live Website:** https://akritpoudel.github.io/akritpoudel.com.np/
+
+Professional website for Akrit Poudel, Licensed Aircraft Maintenance Engineer (B1.1) specializing in ATR 72-500 and ATR 42-320 aircraft at Buddha Air, Nepal.
 
 ## Features
 
